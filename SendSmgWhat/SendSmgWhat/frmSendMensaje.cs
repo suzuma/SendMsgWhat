@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using SendSmgWhat.Comun;
 
 using WhatsAppApi;
-
+//https://www.youtube.com/watch?v=5NmxBl-Xjhk
 namespace SendSmgWhat
 {
     public partial class frmSendMensaje : Form
